@@ -1,4 +1,4 @@
-# ProfessionalProjects
+# Engineering Portfolio
 
 Welcome to my Project Portfolio on GitHub! This repository contains a curated collection of projects I have undertaken, both through university coursework and personal initiatives. Each project folder includes detailed documentation, source code, and additional resources to help you understand the objectives and outcomes of each project.
 
