@@ -1,0 +1,3 @@
+﻿"Bearing Internal 'd'"= 3mm
+"Bearing External 'd'"= 10mm
+"Bearing Width"= 4mm
